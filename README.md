@@ -52,5 +52,3 @@ This project is licensed under the [MIT License](https://github.com/niladrigithu
 If you have any questions or feedback, feel free to reach out to us at [ndas1262000@gmail.com](mailto:ndas1262000@gmail.com).
 
 Happy volunteering!
-
-#### Note: This project is developed for the Apple Developer's Swift Student Challenge, showcasing Swift programming skills and creativity.
