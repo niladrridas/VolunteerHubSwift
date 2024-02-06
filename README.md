@@ -21,14 +21,14 @@ Follow these steps to get the Community Volunteer Hub app up and running on your
    ```bash
    git clone https://github.com/niladrigithub/community-volunteer-hub.git
 
-1. Open the project in Xcode:
+2. Open the project in Xcode:
 
 
 `cd community-volunteer-hub`
 
 `CommunityVolunteerHub.xcodeproj`
 
-2. Build and run the app in the Xcode simulator or on a physical device.
+3. Build and run the app in the Xcode simulator or on a physical device.
 
 ## Usage
 - Upon launching the app, you will see a list of upcoming volunteer opportunities.
