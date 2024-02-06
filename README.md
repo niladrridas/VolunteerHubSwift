@@ -29,9 +29,10 @@ Follow these steps to get the Community Volunteer Hub app up and running on your
 
 `CommunityVolunteerHub.xcodeproj`
 
-3. Build and run the app in the Xcode simulator or on a physical device.
+4. Build and run the app in the Xcode simulator or on a physical device.
 
 ## Usage
+
 - Upon launching the app, you will see a list of upcoming volunteer opportunities.
 - Tap on an opportunity to view detailed information.
 - Explore and discover volunteer events that align with your interests and availability.
