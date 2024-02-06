@@ -21,10 +21,11 @@ Follow these steps to get the Community Volunteer Hub app up and running on your
    ```bash
    git clone https://github.com/niladrigithub/community-volunteer-hub.git
 
-2. Open the project in Xcode:
-
+2. Open the project in Terminal:
 
 `cd community-volunteer-hub`
+
+3. Open the project in Xcode:
 
 `CommunityVolunteerHub.xcodeproj`
 
