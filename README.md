@@ -23,8 +23,9 @@ Follow these steps to get the Community Volunteer Hub app up and running on your
 
 1. Open the project in Xcode:
 
-`cd community-volunteer-hub`
-`CommunityVolunteerHub.xcodeproj`
+```bash
+cd community-volunteer-hub
+CommunityVolunteerHub.xcodeproj
 
 2. Build and run the app in the Xcode simulator or on a physical device.
 
